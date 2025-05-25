@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="OLINK.png" alt="Olink" />
+</p>
+
 # Olink
 
 ## Consultora de Redes 
